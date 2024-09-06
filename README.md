@@ -60,3 +60,4 @@ A minimal facebook clone with firebase plug and play backend and real-time user 
 [Redux-Logger](https://github.com/evgenyrodionov/redux-logger)
 
 [FakerJS](https://github.com/marak/Faker.js/)
+text
